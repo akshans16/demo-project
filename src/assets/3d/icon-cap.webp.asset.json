@@ -2,10 +2,11 @@
   "version": 1,
   "asset_id": "5bb2b88b-626a-4dbe-9f92-2c975f3d1262",
   "project_id": "441b2519-5f47-4528-83dd-30717e5004be",
-  "url": "images/icon-cap.webp",
+  "url": "/images/icon-cap.webp",
   "r2_key": "a/v1/441b2519-5f47-4528-83dd-30717e5004be/5bb2b88b-626a-4dbe-9f92-2c975f3d1262/icon-cap.webp",
   "original_filename": "icon-cap.webp",
   "size": 27630,
   "content_type": "image/webp",
   "created_at": "2026-11-22T17:16:44Z"
 }
+

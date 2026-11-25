@@ -2,10 +2,11 @@
   "version": 1,
   "asset_id": "51e64a78-c96e-401f-964a-21d1bdd26d5a",
   "project_id": "441b2519-5f47-4528-83dd-30717e5004be",
-  "url": "images/icon-tax.webp",
+  "url": "/images/icon-tax.webp",
   "r2_key": "a/v1/441b2519-5f47-4528-83dd-30717e5004be/51e64a78-c96e-401f-964a-21d1bdd26d5a/icon-tax.webp",
   "original_filename": "icon-tax.webp",
   "size": 24280,
   "content_type": "image/webp",
   "created_at": "2026-11-22T17:17:14Z"
 }
+
